@@ -104,9 +104,19 @@
 # print('Dia:',dia,'Mes:',mes,'Año:',año);
 
 
+# Programe una aplicación de consola que solicite al usuario su nombre, después su apellido y
+# a continuación su año de nacimiento. Con esos datos deberá generar una sugerencia de
+# usuario y contraseña. Por ejemplo: nombre: Martín, apellido: Francisconi, Año nacimiento:
+# 1985 -> Usuario: mfrancisconi, Contraseña: mf.1985.
 
+# nom = str(input('Introduzca su nombre: '))
+# ape = str(input('Introduzca su apellido: '))
+# año = input('Introduzca su año de nacimiento: ')
 
+# usuario = nom[0] + ape;
+# password = nom[0] + ape[0]+"."+año
 
+# print('Usuario: ',usuario,'Contraseña: ',password)
 
 
 
